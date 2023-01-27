@@ -17,11 +17,11 @@ module.exports = {
       '2xl' : '1536px',
       // @media (min-width: 640px)
     },
-    colors: {
-      transparent : 'transparent',
-      current : 'currentColor',
-      'background' : '#0F172A'
-    },
+    // colors: {
+    //   transparent : 'transparent',
+    //   current : 'currentColor',
+    //   'background' : '#0F172A'
+    // },
     extend: {},
   },
   plugins: [],
